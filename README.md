@@ -17,6 +17,13 @@
 - [Post Quantum Cryptography(QSafe)](/links/post-quantum-cryptography.md)
 - [Others](/links/others.md)
 
+## Datasets
+- [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+- [Kaggle](https://www.kaggle.com/)
+- [VisualData - computer vision datasets by category - searchable](https://www.visualdata.io/)
+- [CMU Libraries - high-quality datasets](https://guides.library.cmu.edu/machine-learning/datasets)
+- [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
 
 
