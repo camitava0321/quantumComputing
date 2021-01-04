@@ -1,0 +1,131 @@
+Problem Name,Problem Type,variables,Optimal Function Value,Result,RunTime (seconds),Total Quantum RunTime (second),Qubits,Operations,Environment,Solver,Solution
+QUBO017,QUBO,9,-1,[1. 0. 0. 0. 1. 1. 1. 1. 0.],,,,,Classical,CPLEX,correct
+QUBO017,QUBO,9,-1,[1. 0. 0. 0. 1. 1. 1. 1. 0.],0.18,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO017,QUBO,9,-1,[1. 0. 0. 0. 1. 1. 1. 1. 0.],,207,27,400 operations with depth 188,sydney,QAOA,correct
+QUBO017,QUBO,9,-1,[1. 0. 0. 0. 1. 1. 1. 1. 0.],,2697,27,967 operations with depth 377,sydney,VQE,correct
+QUBO014,QUBO,10,96,[0. 1. 0. 1. 0. 0. 1. 0. 1. 1.],,,,,Classical,CPLEX,correct
+QUBO014,QUBO,10,96,[0. 1. 0. 1. 0. 0. 1. 0. 1. 1.],0.18,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO014,QUBO,10,96,[0. 1. 0. 1. 0. 0. 1. 0. 1. 1.],86,649,27,551 operations with depth 209,sydney,QAOA,correct
+QUBO014,QUBO,10,96,[0. 1. 0. 1. 0. 0. 1. 0. 1. 1.],,502,27,1066 operations with depth 306,sydney,VQE,correct
+QUBO016,QUBO,11,80,[1. 1. 1. 1. 0. 1. 1. 1. 0. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO016,QUBO,11,80,[1. 1. 1. 1. 0. 1. 1. 1. 0. 0. 0.],0.15,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO016,QUBO,11,1721,[0. 1. 1. 0. 1. 0. 1. 1. 0. 1. 1.],,221,27,663 operations with depth 243,sydney,QAOA,incorrect
+QUBO016,QUBO,11,1097,[0. 1. 1. 0. 0. 1. 1. 1. 0. 0. 1.],,696,27,1471 operations with depth 326,sydney,VQE,incorrect
+QUBO015,QUBO,12,28,[0. 1. 1. 0. 1. 1. 1. 0. 0. 0. 1. 0.],,,,,Classical,CPLEX,correct
+QUBO015,QUBO,12,28,[0. 1. 1. 0. 1. 1. 1. 0. 0. 0. 1. 0.],0.16,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO015,QUBO,12,38,[0. 0. 1. 0. 1. 1. 1. 0. 1. 0. 1. 0.],,340,27,808 operations with depth 274,sydney,QAOA,incorrect
+QUBO015,QUBO,12,16,[0. 1. 1. 1. 0. 1. 1. 0. 0. 0. 1. 0.],,814,27,1581 operations with depth 345,sydney,VQE,correct
+QUBO013,QUBO,15,129,[0. 0. 1. 0. 1. 1. 1. 0. 1. 0. 0. 1. 1. 1. 1.],,,,,Classical,CPLEX,correct
+QUBO013,QUBO,15,129,[0. 0. 1. 0. 1. 1. 1. 0. 1. 0. 0. 1. 1. 1. 1.],0.53,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO013,QUBO,15,9190,[0. 1. 0. 0. 1. 1. 0. 0. 1. 0. 1. 1. 0. 1. 1.],90,1410,27,1422 operations with depth 456,sydney,QAOA,incorrect
+QUBO013,QUBO,15,92810,[0. 1. 0. 0. 0. 1. 1. 0. 1. 0. 0. 1. 1. 0. 1.],,6516,27,2599 operations with depth 705,sydney,VQE,incorrect
+QUBO001,QUBO,20,206,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO002,QUBO,20,46,[1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 1. 0.],,,,,Classical,CPLEX,correct
+QUBO012,QUBO,20,124,[0. 1. 0. 1. 0. 1. 0. 1. 0. 1. 0. 1. 1. 0. 0. 1. 1. 1. 0. 1.],,,,,Classical,CPLEX,correct
+QUBO001,QUBO,20,206,[1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0.],35,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO002,QUBO,20,46,[1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 1. 0.],60,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO012,QUBO,20,124,[0. 1. 0. 1. 0. 1. 0. 1. 0. 1. 0. 1. 1. 0. 0. 1. 1. 1. 0. 1.],69,,,,Classical,NumpyMinimumEigenSolver,correct
+QUBO001,QUBO,20,4728,[1. 0. 1. 1. 0. 1. 1. 1. 1. 1. 1. 0. 0. 0. 0. 1. 1. 0. 0. 1.],,7583,65,868 operations with depth 278,manhattan,QAOA,incorrect
+QUBO002,QUBO,20,1101,[0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 1. 1. 0. 0. 0. 1. 1. 0.],193.3,15682,65,1827 operations with depth 506,manhattan,QAOA,incorrect
+QUBO012,QUBO,20,20385,[1. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0.],95,309,27,2805 operations with depth 850,sydney,QAOA,incorrect
+QUBO012,QUBO,20,32793,[1. 1. 0. 1. 1. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0.],,2531,27,6006 operations with depth 1580,sydney,VQE,incorrect
+QUBO011,QUBO,24,106,[0. 1. 1. 1. 0. 1. 1. 1. 0. 1. 0. 0. 0. 1. 1. 0. 0. 0. 1. 0. 0. 0. 1. 0.],,,,,Classical,CPLEX,correct
+QUBO011,QUBO,24,,MemoryError: Unable to allocate 64.0 MiB for an array with shape (16777216.) and data type int32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO011,QUBO,24,253494,[0. 1. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 1. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0.],101,346,27,4598 operations with depth 1299,sydney,QAOA,incorrect
+QUBO011,QUBO,24,199778,[0. 1. 0. 0. 1. 1. 0. 0. 0. 1. 0. 0. 0. 1. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0.],,3933,27,7675 operations with depth 1668,sydney,VQE,incorrect
+QUBO010,QUBO,27,105,[1. 1. 1. 1. 1. 0. 0. 0. 0. 1. 0. 0. 1. 1. 1. 1. 0. 1. 0. 0. 0. 1. 0. 0. 1. 1. 0.],,,,,Classical,CPLEX,correct
+QUBO010,QUBO,27,,MemoryError: Unable to allocate 512. MiB for an array with shape (134217729.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO010,QUBO,27,394523,[0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 1. 0. 1. 0. 0. 1. 1. 1. 0. 0. 1. 1. 1. 0. 0.],206,6819,65,5626 operations with depth 1287,manhattan,QAOA,incorrect
+QUBO010,QUBO,27,725409,[0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 1. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0.],105,1110,27,5512 operations with depth 1446,sydney,QAOA,incorrect
+QUBO010,QUBO,27,81998,[1. 1. 1. 0. 1. 0. 0. 0. 1. 0. 1. 1. 1. 0. 1. 0. 1. 0. 0. 0. 1. 0. 1. 1. 0. 0. 1.],,31945,65,10035 operations with depth 2086,manhattan,VQE,incorrect
+QUBO010,QUBO,27,529792,[0. 1. 0. 0. 0. 0. 0. 1. 1. 1. 1. 0. 1. 0. 1. 1. 1. 0. 1. 0. 1. 0. 0. 1. 1. 0. 0.],,,27,10479 operations with depth 2230,sydney,VQE,incorrect
+QUBO009,QUBO,30,198,[1. 0. 0. 0. 1. 1. 1. 0. 1. 0. 0. 0. 1. 0. 1. 0. 0. 0. 1. 0. 1. 1. 1. 0. 1. 1. 1. 1. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO009,QUBO,30,,MemoryError: Unable to allocate 128. GiB for an array with shape (34359738369.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO009,QUBO,30,673758,[0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 1. 0. 1. 1. 1. 1. 1. 1. 1. 0.],207,2869,65,6331 operations with depth 1303,manhattan,QAOA,incorrect
+QUBO009,QUBO,30,738122,[1. 1. 1. 1. 1. 0. 1. 0. 0. 1. 0. 1. 1. 0. 1. 1. 1. 0. 1. 0. 1. 0. 1. 0. 1. 0. 0. 0. 0. 0.],1873,9945,65,13311 operations with depth 2467,manhattan,VQE,incorrect
+QUBO008,QUBO,35,24,[0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 1.],,,,,Classical,CPLEX,correct
+QUBO008,QUBO,35,,MemoryError: Unable to allocate 128. GiB for an array with shape (34359738369.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO008,QUBO,35,642933,[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 1. 0. 0. 1. 0. 0. 1. 0. 1. 0. 1.],220,1528,65,8978 operations with depth 1740,manhattan,QAOA,incorrect
+QUBO008,QUBO,35,,Python hangs: results never came,,,65,19811 operations with depth 3424,manhattan,VQE,error
+QUBO007,QUBO,40,139,[1. 1. 0. 1. 1. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 1. 1. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 1. 1. 0. 1. 0. 0. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO007,QUBO,40,,MemoryError: Unable to allocate 4.00 TiB for an array with shape (1099511627777.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO007,QUBO,40,3349412,[0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 1. 0. 1. 0. 0. 1. 0. 0. 0. 0. 1. 0. 0. 0. 1. 1. 0. 0. 1. 1. 0. 1. 1. 0. 0. 0. 0.],234,17218,65,12710 operations with depth 2405,manhattan,QAOA,incorrect
+QUBO007,QUBO,40,,Python hangs:Your job is too long.. Error code: 3248,,,65,24846 operations with depth 3577,manhattan,VQE,error
+QUBO006,QUBO,45,273,[0. 0. 0. 1. 0. 0. 0. 0. 1. 1. 1. 1. 1. 0. 0. 0. 0. 0. 1. 0. 1. 1. 1. 0. 0. 0. 1. 1. 1. 0. 0. 0. 0. 1. 1. 1. 1. 1. 0. 0. 1. 0. 1. 0. 1.],,,,,Classical,CPLEX,correct
+QUBO006,QUBO,45,,MemoryError: Unable to allocate 128. TiB for an array with shape (35184372088833.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO006,QUBO,45,7637816,[0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 1. 0. 1. 1. 1. 0. 0. 0. 1. 1. 0. 1. 0. 1. 1. 1.],244,2299,65,15867 operations with depth 2724,manhattan,QAOA,incorrect
+QUBO006,QUBO,45,,Python hangs:Your job is too long.. Error code: 3248,,,65,33752 operations with depth 4925,manhattan,VQE,error
+QUBO005,QUBO,50,97,[0. 0. 0. 0. 1. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 1. 0. 0. 1. 0. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO005,QUBO,50,,MemoryError: Unable to allocate 4.00 PiB for an array with shape (1125899906842625.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO005,QUBO,50,2271830,[0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 0. 1. 0. 1. 1. 0. 0. 0. 1. 0. 0. 1. 0. 1. 0. 1. 1. 1. 0. 0. 1. 0. 0. 1. 0. 0. 0. 1. 0.],267,1791,65,21351 operations with depth 3393,manhattan,QAOA,incorrect
+QUBO005,QUBO,50,,Python hangs : Your job is too long.. Error code: 3248,,,65,40910 operations with depth 5451,manhattan,VQE,error
+QUBO004,QUBO,55,362,[0. 1. 0. 1. 1. 0. 1. 1. 1. 1. 0. 1. 1. 1. 1. 1. 1. 1. 1. 1. 0. 1. 1. 1. 1. 0. 0. 0. 1. 1. 0. 1. 1. 0. 1. 0. 0. 0. 1. 0. 1. 1. 1. 0. 1. 1. 1. 1. 1. 0. 0. 1. 1. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO004,QUBO,55,,MemoryError: Unable to allocate 128. PiB for an array with shape (36028797018963968.) and data type uint32,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO004,QUBO,55,39573401,[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 1. 1. 1. 0. 1. 0. 1. 1. 1. 0. 0. 1. 1. 0. 1. 0. 1. 1. 1. 1. 0. 0. 0. 0. 1. 0. 0. 0. 1. 1. 1. 0. 0. 1. 1. 0. 1. 1. 0. 1. 1.],266,7987,65,23332 operations with depth 3064,manhattan,QAOA,incorrect
+QUBO004,QUBO,55,,Python hangs. eventually Failed,,,65,46377 operations with depth 5445,manhattan,VQE,error
+QUBO003,QUBO,65,53,[0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 1. 0. 1. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 0. 0.],,,,,Classical,CPLEX,correct
+QUBO003,QUBO,65,,Maximum allowed size exceeded,,,,,Classical,NumpyMinimumEigenSolver,error
+QUBO003,QUBO,65,7917859,[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 1. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 1. 0. 0. 0. 0. 1. 0. 1. 1. 1. 1. 0. 0. 1. 0. 0. 0. 1.],599,25615,65,36324 operations with depth 4931,manhattan,QAOA,incorrect
+QUBO003,QUBO,65,,Python hangs. eventually Failed,,,65,69178 operations with depth 8202,manhattan,VQE,error
+301-Assignment Problem,QUBO,9,,Python Hangs,,,65,,manhattan,Grover,killed
+qp-generated-MILP-B008-C003-328198,MILP,11,,,,,,,,,
+001-Linear Optimization Problem-MILP-B002-C001-348085,MILP,3,15.59375,1.0  1.0  13.59375  ,0.03,,0,0,Classical,CPLEX,integer optimal solution
+001-Linear Optimization Problem-MILP-B002-C001-348085,MILP,3,17.9993,0.0000  0.0000  17.9993  ,0.24,,0,0,Classical,CplexOptimizer and CobylaOptimizer,INFEASIBLE
+001-Linear Optimization Problem-MILP-B002-C001-348085,MILP,3,17.9993,0.0000  0.0000  17.9993  ,0.77,,0,0,qasm_simulator,MinimumEigenOptimizer and CobylaOptimizer,INFEASIBLE
+001-Linear Optimization Problem-MILP-B003-C001-230011,MILP,4,1,1.0000  -0.0000  0.0000  2.0000  ,0.82,,0,0,Classical,ADMM with CplexOptimizer and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B003-C001-230011,MILP,4,1,1.0000  -0.0000  0.0000  2.0000  ,1.35,,0,0,qasm_simulator,ADMM with MinimumEigenOptimizer and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B004-C001-931056,MILP,5,1,1.0000  -0.0000  0.0000  0.0000  2.0000  ,1.63,,0,0,Classical,ADMM with MinimumEigenOptimizer and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B004-C001-931056,MILP,5,1,1.0000  -0.0000  0.0000  0.0000  2.0000  ,1.63,,4,15,qasm_simulator,ADMM with MinimumEigenOptimizer(QAOA) and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B004-C001-001128,MILP,5,-19,1.0000  -0.0000  0.0000  0.0000  2.0000  ,0.2,,0,0,Classical,ADMM with CplexOptimizer and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B004-C001-001128,MILP,5,-19,1.0000  -0.0000  0.0000  0.0000  2.0000  ,1.4,,4,15,qasm_simulator,ADMM with MinimumEigenOptimizer(QAOA) and CobylaOptimizer,SUCCESS
+001-Linear Optimization Problem-MILP-B004-C001-000231,MILP,5,-18.0794,1.0000  -0.0000  1.0000  0.0000  2.0040  ,1.64,,0,0,Classical,ADMM with CplexOptimizer and CobylaOptimizer,INFEASIBLE
+001-Linear Optimization Problem-MILP-B004-C001-000231,MILP,5,-38,1.0  0  0  1.0  3.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+001-Linear Optimization Problem-MILP-B004-C001-000231,MILP,5,-18.0794,1.0000  -0.0000  1.0000  0.0000  2.0040  ,2.58,,4,18,qasm_simulator,ADMM with MinimumEigenOptimizer(QAOA) and CobylaOptimizer,INFEASIBLE
+301-Assignment Problem-MILP-B009-133066,MILP,9,270,1.0  0  0  0  1.0  0  0  0  1.0  ,0.09,,0,0,Classical,CPLEX,integer optimal solution
+301-Assignment Problem-MILP-B009-133066,MILP,9,295,1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  ,19.87,,0,0,Classical,ADMM with CplexOptimizer and CobylaOptimizer,INFEASIBLE
+301-Assignment Problem-MILP-B009-133066,MILP,9,295,1.0000  0.0000  0.0000  0.0000  0.0000  0.0000  0.0000  1.0000  1.0000  ,40.54,,9,54,qasm_simulator,ADMM with MinimumEigenOptimizer(QAOA) and CobylaOptimizer,INFEASIBLE
+301-Assignment Problem-MILP-B009-133066,MILP,9,270,1  0  0  0  1  0  0  0  1  ,1.11,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),SUCCESS
+301-Assignment Problem-MILP-B009-133066,MILP,9,205,0  0  1  0  1  0  1  0  0  ,19.15,,12,117 Depth - 42,qasm_simulator,MinimumEigenOptimizer(QAOA),SUCCESS
+301-Assignment Problem-MILP-B009-133066,MILP,9,205,0  0  1  0  1  0  1  0  0  ,89.43,,12,246 Depth - 49,qasm_simulator,MinimumEigenOptimizer(VQE),SUCCESS
+502-Bin Packing Problem-MILP-B010-234167,MILP,10,163,1.0  0  1.0  0  1.0  0  0  1.0  1.0  0  ,0.16,,0,0,Classical,CPLEX,integer optimal solution
+503-Bin Packing Problem-MILP-B020-636279,MILP,20,4,1.0  1.0  1.0  1.0  0  0  1.0  0  0  0  0  1.0  1.0  0  0  0  0  1.0  0  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+800-boxes-MILP-B009-716820,MILP,9,42983,0  0  1.0  1.0  0  0  0  1.0  0  ,0.73,,0,0,Classical,CPLEX,integer optimal solution
+301-Assignment Problem-MILP-B009-133066,MILP,9,0,python hangs,0,,12,246 Depth - 49,qasm_simulator,GroverOptimizer,error
+802-Production Problem-LP-B006-801439,LP,6,372,40.0  0  0  60.0  200.0  300.0  ,0.05,,0,0,Classical,CPLEX,optimal
+201-Quadratic Optimization Problem-MIQP-B003-585042,MIQP,3,3,1.0  0  1.0  ,0.25,,0,0,Classical,CPLEX,integer optimal solution
+201-Quadratic Optimization Problem-MIQP-B008-C001-235613,MIQP,9,7.870967742,1.0  0  0  0  0  0  1.0  1.0  4.870967741935484  ,0.19,,0,0,Classical,CPLEX,integer optimal solution
+202-Quadratic Optimization Problem-MIQCP-B003-653363,MIQCP,3,5,1.0  1.0  0  ,0.22,,0,0,Classical,CPLEX,integer optimal solution
+999-RandomQUBO-MILP-B009-004,MILP,9,28,0  0  1.0  0  1.0  1.0  1.0  0  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+999-RandomQUBO-MILP-B010-005,MILP,10,45,0  1.0  0  1.0  0  1.0  1.0  1.0  0  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+999-RandomQUBO-MILP-B012-006,MILP,12,115,0  1.0  0  0  1.0  1.0  1.0  1.0  1.0  1.0  1.0  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+001-Linear Optimization Problem-MILP-B006-C002-877178,MILP,8,8.976,0  1.0  0  0  0  0  7.975999999999999  0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+001-Linear Optimization Problem-MILP-B008-C002-303024,MILP,10,32.5736377,0  0  1.0  0  0  1.0  0  0  13.037555228276883  17.536082474226802  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+001-Linear Optimization Problem-MILP-B010-C003-674939,MILP,13,19.69230769,1.0  1.0  0  1.0  1.0  1.0  0  0  0  1.0  0.29230769230769127  13.4  0  ,0.16,,0,0,Classical,CPLEX,integer optimal solution
+002-Linear Optimization Problem,LP,77,0.108662278,0.029519061676488278  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.0018925572907052622  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.01121443524614487  0  0  0  0  0  0.0050076604667252025  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0.06102856352669323  0  0  0  0  0  0  0  0  ,0.11,,0,0,Classical,CPLEX,optimal
+101-MIP Optimization Problem,MILP,3,-23,1.0  2.0  3.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+102-MIP Optimization Problem,MILP,5,260,8.0  21.0  0  2.0  3.0  ,0.01,,0,0,Classical,CPLEX,integer optimal solution
+201-Quadratic Optimization Problem-MIQP-B010-C001-215368,MIQP,11,15,1.0  1.0  1.0  0  0  1.0  0  1.0  1.0  0  8.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+201-Quadratic Optimization Problem-MIQP-B006-C002-650854,MIQP,8,20,0  0  0  0  0  0  0  20.0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+201-Quadratic Optimization Problem-MIQP-B024-C002-390283,MIQP,26,17.09756098,0  0  0  0  0  0  0  0  0  1.0  0  0  0  0  0  0  0  0  0  1.0  0  0  0  0  15.097560975609756  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+201-Quadratic Optimization Problem-MIQP-B012-C002-927308,MIQP,14,29,1.0  0  1.0  1.0  0  1.0  1.0  0  1.0  1.0  0  1.0  3.9999999999999964  12.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+301-Assignment Problem,MILP,9,270,1.0  0  0  0  1.0  0  0  0  1.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+502-Bin Packing Problem,MILP,10,173,1.0  0  1.0  0  1.0  0  1.0  0  0  1.0  ,0.02,,0,0,Classical,CPLEX,integer optimal solution
+503-Bin Packing Problem,MILP,20,2,0  1.0  1.0  0  0  1.0  0  0  0  1.0  0  0  0  0  1.0  0  0  0  1  0  ,0.06,,0,0,Classical,CPLEX,integer optimal solution
+800-Objects in Boxes,MILP,9,42983,0  0  1.0  1.0  0  0  0  1.0  0  ,0,,0,0,Classical,CPLEX,integer optimal solution
+802-Production Problem,LP,6,372,40.0  0  0  60.0  200.0  300.0  ,0.02,,0,0,Classical,CPLEX,optimal
+800-Objects in Boxes,MILP,9,,,,,,,ibmq_montreal,GroverOptimizer,error
+800-Objects in Boxes,MILP,9,42983,0  0  1  1  0  0  0  1  0  ,0.15,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),SUCCESS
+800-Objects in Boxes,MILP,9,43103,0  0  1  0  1  0  1  0  0  ,513.25,,9,81 Depth - 36,ibmq_montreal,MinimumEigenOptimizer(QAOA),SUCCESS
+800-Objects in Boxes,MILP,9,42983,0  0  1  1  0  0  0  1  0  ,401.39,,9,144 Depth - 37,ibmq_montreal,MinimumEigenOptimizer(VQE),SUCCESS
+503-Bin Packing Problem,MILP,20,0,0,0,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),memory error
+503-Bin Packing Problem,MILP,20,1,0  0  1  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  ,704.08,,44,864 Depth - 99,ibmq_manhattan,MinimumEigenOptimizer(QAOA),INFEASIBLE
+503-Bin Packing Problem,MILP,20,0,0,0,,44,31580 operations with depth 4507,ibmq_manhattan,MinimumEigenOptimizer(VQE),memory error
+502-Bin Packing Problem,MILP,10,0,0,0,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),memory error
+502-Bin Packing Problem,MILP,10,212,1  1  0  1  1  0  0  1  1  0  ,1634.29,,31,606 Depth - 81,ibmq_manhattan,MinimumEigenOptimizer(QAOA),INFEASIBLE
+502-Bin Packing Problem,MILP,10,0,0,0,,31,13194 operations with depth 2335,ibmq_manhattan,MinimumEigenOptimizer(VQE),memory error
+301-Assignment Problem,MILP,9,270.0000,1  0  0  0  1  0  0  0  1  ,0.10,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),SUCCESS
+301-Assignment Problem,MILP,9,255.0000,1  0  0  0  0  1  0  1  0  ,1115.73,,12,117 Depth - 42,ibmq_manhattan,MinimumEigenOptimizer(QAOA),SUCCESS
+301-Assignment Problem,MILP,9,255.0000,1  0  0  0  0  1  0  1  0  ,1555.57,,12,246 Depth - 49,ibmq_manhattan,MinimumEigenOptimizer(VQE),SUCCESS
+201-Quadratic Optimization Problem-MIQP-B003-585042,MILP,3,3.0000,1  0  1  ,0.15,,0,0,Classical,MinimumEigenOptimizer(NumPyMinimumEigensolver),SUCCESS
+201-Quadratic Optimization Problem-MIQP-B003-585042,MILP,3,3.0000,1  0  1  ,163.62,,9,96 Depth - 33,ibmq_montreal,MinimumEigenOptimizer(QAOA),SUCCESS
+201-Quadratic Optimization Problem-MIQP-B003-585042,MILP,3,3.0000,1  0  1  ,251.44,,9,144 Depth - 37,ibmq_montreal,MinimumEigenOptimizer(VQE),SUCCESS
