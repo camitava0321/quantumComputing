@@ -98,6 +98,7 @@
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - The why and how of quantum programming with a focus on the Python Forest SDK from Rigetti.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM) - Microsoft Research Talk on introductory quantum computing for computer scientists. Duration: 1 hour, 28 minutes.
 - [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ) - Youtube channel focusing on quantum computing topics and general technology.
+- [Introduction to Quantum Computing by Coding School - Qubit By Qubit](https://www.youtube.com/playlist?list=PLEPvE5c0f6EhWafriMxAUwhqiuo-HhnMq)
 
 ## Papers
 
