@@ -25,5 +25,9 @@
 - [CMU Libraries - high-quality datasets](https://guides.library.cmu.edu/machine-learning/datasets)
 - [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 
+## Other Curated Links
+- [awesome-quantum-computing  by desireevl](https://github.com/desireevl/awesome-quantum-computing)
+- [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
+
 
 

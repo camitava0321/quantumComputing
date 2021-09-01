@@ -13,20 +13,20 @@
 
 ### Personal Channel: Quantum Computing and AI
 - [Quantum Computing and AI](https://www.youtube.com/channel/UCFsbWWDDQA0YYEUPgpvtJpg)
+### Personal Tutorial Notebooks: Quantum Computing and AI
+- [Qiskit Tutorials](https://github.com/camitava0321/quantumComputing/tree/master/qiskit-jupyter-notebooks)
 
 ### IBMQ
-- [IBM Q User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
+- [IBM Quantum Computing](https://www.ibm.com/quantum-computing/) - IBM Quantum Computing
 - [IBMQ Guide](https://quantum-computing.ibm.com/docs/)
 - [Qiskit User Guide](https://quantum-computing.ibm.com/support/guides/user-guide?section=5dcb2b45330e880045abccb0)
-- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit. [see also](https://quantum-computing.ibm.com/docs/qis-tut/)
+- [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) - Jupyter notebooks simply demonstrating how to use Qiskit.
 - [Qiskit Community Tutorials](https://github.com/Qiskit/qiskit-community-tutorials) - Jupyter notebooks demonstrating how to use Qiskit.
 
 ### Others
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
-- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
-- [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 - [The Quantum Quest](https://www.quantum-quest.nl/) - Introductory web class on quantum computing principles designed for high school students. 
@@ -40,6 +40,8 @@
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
 - [Stanford Quantum - QCHack 2021 Recordings](https://www.youtube.com/playlist?list=PL84_Nf3G_myKIIpyk5OqaDCKgpAN92h1Y)
+- [CNOT](https://cnot.io/) - Easy to understand, step by step introduction to quantum computing concepts.
+- [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) - Interactive learning for quantum gate computing by David Kemp.
 
 ### Optimization (Classical)
 - [Online optimization server NEOS](https://neos-server.org/neos/index.html)
