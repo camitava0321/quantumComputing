@@ -11,8 +11,8 @@
 
 ## Learning
 
-### IBM Internal
-- [GBS-Q Private : Learning Resources](https://ibm.ent.box.com/folder/77321496505) - Classroom Videos, Papers, Books etc..
+### Personal Channel: Quantum Computing and AI
+- [Quantum Computing and AI](https://www.youtube.com/channel/UCFsbWWDDQA0YYEUPgpvtJpg)
 
 ### IBMQ
 - [IBM Q User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - Short tutorials providing a gentle introduction to quantum computing and IBM Q.
@@ -39,6 +39,7 @@
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)
+- [Stanford Quantum - QCHack 2021 Recordings](https://www.youtube.com/playlist?list=PL84_Nf3G_myKIIpyk5OqaDCKgpAN92h1Y)
 
 ### Optimization (Classical)
 - [Online optimization server NEOS](https://neos-server.org/neos/index.html)
@@ -88,6 +89,7 @@
 - [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/) - How quantum computing works and how it can change the world.
 
 ## Videos
+- [Quantum Computing and AI](https://www.youtube.com/channel/UCFsbWWDDQA0YYEUPgpvtJpg)
 - [Quantum Information and Computing-Prof D K Ghosh](https://www.youtube.com/watch?v=Vzh5guYUyvM&list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
 - [Quantum Computing, IIT Kanpur, Prof. Debabrata Goswami](https://www.youtube.com/watch?v=xnmpWfQKPSE&list=PLo4DhXMUkdvU9rZvEQYLdly5dABHvlZuD)
 - [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) - YouTube video series showing how to write quantum algorithms.
@@ -125,6 +127,7 @@
 
 - [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information. 
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
+- [Quantum Open Source Foundation](https://github.com/qosf)
 
 ## Blogs
 
@@ -145,4 +148,7 @@
 
 
 ## Important IBM Links
+### IBM Internal Resources (Authenticated Pages)
+- [GBS-Q Private : Learning Resources](https://ibm.ent.box.com/folder/77321496505) - Classroom Videos, Papers, Books etc..
+
 - [Issue: IBM Quantum System Access](https://github.ibm.com/IBM-Q-General/quantum-grand-central/issues/new?assignees=francois-varchon%2C+Matthew-Stypulkoski&labels=access-request&template=ibm-quantum-system-access.md&title=IBM+Quantum+System+Access)
