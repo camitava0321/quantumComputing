@@ -141,6 +141,7 @@
 - [Quantum Frontiers](https://quantumfrontiers.com/) - By the Quantum Institute for Quantum Information and Matter, sharing behind the scenes research insights.
 - [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 - [Q# Blog](https://devblogs.microsoft.com/qsharp/) - Microsoft Quantum development updates. 
+- [Chris Ferrie's Blog](https://csferrie.medium.com/)
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/) - Scott Aaronson's thoughts on quantum computing matters.
 
 ## Background Studies
