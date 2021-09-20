@@ -28,6 +28,7 @@
 ## Other Curated Links
 - [awesome-quantum-computing  by desireevl](https://github.com/desireevl/awesome-quantum-computing)
 - [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
+- [Links Harvested from Tweeter](/links/tweeter-links.md)
 
 ## Github Topics on Quantum Computing
 - [on Quantum Computing](https://github.com/topics/quantum-computing)
