@@ -14,6 +14,12 @@
 ## Option Pricing
 - [Option Pricing using Quantum Computers Feb, 2020](https://arxiv.org/pdf/1905.02666.pdf)
 - [Quantum unary approach to option pricing Sep, 2019](https://arxiv.org/pdf/1912.01618.pdf)
+- https://www.americanbanker.com/news/why-banks-like-barclays-are-testing-quantum-computing
+- https://blogs.wsj.com/cio/2017/12/14/j-p-morgan-to-experiment-with-quantum-computing-in-partnership-with-ibm/
+- https://www.ibm.com/blogs/research/2019/02/q-network-quantum-goals/
+We have qiskit examples of portfolio Optimisation, trading simulations with near-term devices. We have limitation at present to apply these examples in commercial fields yet but with machines having better qV in future such limitations will slowly fade out.
+![image](https://github.com/camitava0321/quantumComputing/assets/25051480/ddcaf39c-4bf0-446b-a686-78c227c707a4)
+
 
 ## Post-Quantum Cryptography
 - [ISARA Radiate™ Quantum-Safe Library 2.0 Developer’s Guide](https://www.isara.com/toolkit/2/doc/guide/guide.html#gettingstarted)
