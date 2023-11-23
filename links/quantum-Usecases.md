@@ -1,4 +1,3 @@
-
 ## Protein folding
 - [Google Alphafold Jan, 2020](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
 - [ProteinNet Dec, 2019 ](https://github.com/aqlaboratory/proteinnet)
@@ -58,8 +57,6 @@ Quantum machine learning: https://www.nature.com/articles/nature23474
 Voice over, define what accurate is, we get as perfect as possible in less time 
 ![image](https://github.com/camitava0321/quantumComputing/assets/25051480/c7d5c0f9-b014-4dc3-806f-242f3172faad)
 
-
 ## Post-Quantum Cryptography
 - [ISARA Radiate™ Quantum-Safe Library 2.0 Developer’s Guide](https://www.isara.com/toolkit/2/doc/guide/guide.html#gettingstarted)
-
 
