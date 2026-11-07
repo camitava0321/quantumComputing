@@ -24,7 +24,7 @@
 - [Qiskit Community Tutorials](https://github.com/Qiskit/qiskit-community-tutorials) - Jupyter notebooks demonstrating how to use Qiskit.
 
 ### Others
-- [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - Comprehensive catalog of quantum algorithms. 
+- [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) - Comprehensive catalog of quantum algorithms. 
 - [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - Hands on Stanford course teaching quantum computing to those without a quantum mechanical background.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - Explanation of quantum machine learning algorithms.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) - Notes of Caltech's Quantum Computation Course Physics 219/Computer Science 219 by John Preskill.
@@ -34,7 +34,7 @@
 - [Quantum computing for the very curious](https://quantum.country/qcvc) - Essay introducing quantum computing by Michael Nielsen and Andy Matuschak.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - Four qubit photonic quantum simulator and computer.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) - Tutorials for Rigetti Computing's SDK.
-- [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanadu’s SDK.
+- [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - Background information on the photonic continuous-variable approach to quantum computation, as well as tutorials for Xanaduï¿½s SDK.
 - [D-Wave Leap](https://www.dwavesys.com/take-leap) - Demos and educational resources as well as access to D-Wave's quantum computer.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
@@ -58,12 +58,12 @@
 	- [DOcplex.MP](http://docplex.mp/)
 	- [Mathematical Programming Modeling for Python V2.15 documentation](http://ibmdecisionoptimization.github.io/docplex-doc/mp/refman.html)
 	- [IBM(R) ILOG CPLEX Python API Reference Manual](https://www.ibm.com/support/knowledgecenter/SSSA5P_12.8.0/ilog.odms.cplex.help/CPLEX/Python/topics/PLUGINS_ROOT/ilog.odms.cplex.help/refpythoncplex/html/overview.html)
-	- [IBM® Decision Optimization CPLEX® Modeling for Python — IBM® Decision Optimization CPLEX® Modeling for Python (DOcplex) V2.15 documentation](https://cdn.rawgit.com/IBMDecisionOptimization/docplex-doc/master/docs/index.html)
+	- [IBMï¿½ Decision Optimization CPLEXï¿½ Modeling for Python ï¿½ IBMï¿½ Decision Optimization CPLEXï¿½ Modeling for Python (DOcplex) V2.15 documentation](https://cdn.rawgit.com/IBMDecisionOptimization/docplex-doc/master/docs/index.html)
 
 
 ## Courses
 
-- [Edx - Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) - Conceptual introduction to the fundamental  principles of quantum mechanics.
+- [Edx - Quantum 101: Quantum Computing & Quantum Internet](https://www.edx.org/certificates/professional-certificate/delftx-quantum-computing-and-quantum-internet?index=rv_product_summary&queryId=f227367d40fa19702ba757362f8364eb&position=2) - Conceptual introduction to the fundamental  principles of quantum mechanics.
 - [Udemy - QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) - Introductory course on quantum cryptography and how to run quantum programs.
 - [Udemy - Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) - Understanding the D-Wave Quantum Annealer architecture along with a few practical tasks.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) - Introduction to the key concepts of quantum computing with minimal mathematics.
@@ -77,7 +77,6 @@
 
 ## Books
 
-- [GBS-Q : Books](https://ibm.ent.box.com/folder/103365869878) - private resources for GBS-Q
 - [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - An open-source textbook covering quantum algorithms and showing how to run them on real hardware using Qiskit. Also covers prerequisites.
 - [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y) - Introduction to fundamentals of classical and quantum computing.
 - [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683) - Hands-on introduction to quantum computing that focuses on concepts and programming examples (in multiple languages).
@@ -106,8 +105,6 @@
 
 ## Papers
 
-- [GBS-Q Resources - Papers](https://ibm.ent.box.com/folder/90095909652) - private
-- [IBM IBV Papers](https://ibm.ent.box.com/folder/106334355158) - private
 - [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - Quantum machine learning and what quantum computing means to data mining.
 
@@ -116,7 +113,6 @@
 
 - [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
 - [Code Contribution](https://github.com/Qiskit)
-- [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
@@ -133,8 +129,7 @@
 
 ## Blogs
 
-- [Qiskit blog](https://medium.com/qiskit) - All about quantum computation from the Qiskit community team.
-- [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - Quantum algorithms explained to data scientists with visualisations.
+- [Qiskit blog](https://www.ibm.com/quantum/blog) - All about quantum computation from the Qiskit community team.
 - [Algorithmic Assertions](http://algassert.com/) - About quantum computing and computing in general by Craig Gidney - a member of Google Quantum Computing Team.
 - [Bits of Quantum](http://blog.qutech.nl/) - By the QuTech institution, sharing their research and daily life.
 - [Decodoku](https://medium.com/@decodoku) - Interesting posts on quantum computation, by James Wootton.
@@ -147,11 +142,4 @@
 ## Background Studies
 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-- [MIT Course - Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
-
-
-## Important IBM Links
-### IBM Internal Resources (Authenticated Pages)
-- [GBS-Q Private : Learning Resources](https://ibm.ent.box.com/folder/77321496505) - Classroom Videos, Papers, Books etc..
-
-- [Issue: IBM Quantum System Access](https://github.ibm.com/IBM-Q-General/quantum-grand-central/issues/new?assignees=francois-varchon%2C+Matthew-Stypulkoski&labels=access-request&template=ibm-quantum-system-access.md&title=IBM+Quantum+System+Access)
+- [MIT Course - Linear Algebra](https://ocw.mit.edu/courses/18-700-linear-algebra-fall-2013/)
